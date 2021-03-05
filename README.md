@@ -36,19 +36,10 @@
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
+[![Run on Repl.it](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)](https://repl.it/@Quiect ILham UserBot wa)
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)
 
-### The Hard Method
-```js
-git clone https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham
-cd ILhambot
-npm i
-# Config.env oluşturun ve düzenleyin. #
-# Config.env create and edit. #
-node bot.js
-```
 
 ## F.A.Q
 Answer a few frequently asked questions;
