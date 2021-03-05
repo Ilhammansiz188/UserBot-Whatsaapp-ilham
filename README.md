@@ -36,7 +36,7 @@
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](STRING SEASON DISINI)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
+[![String](STRING SEASON DISINI)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
 
 [![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
 
