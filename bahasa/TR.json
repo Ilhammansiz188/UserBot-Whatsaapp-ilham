@@ -1,28 +1,20 @@
 {
-    "__ASENAJSON__": true,
-    "LANGUAGE": "Türkçe",
-    "LANGCODE": "tr",
-    "AUTHOR": "AsenaDev",
+    "__ILhamuserbotwa__": true,
+    "LANGUAGE": "Indonesia",
+    "LANGCODE": "id",
+    "AUTHOR": "ILham",
     "STRINGS": { 
         "_asena": {
-            "COMMAND": "Komut",
-            "DESC": "Açıklama",
-            "EXAMPLE": "Örnek",
-            "NOT_FOUND": "*Böyle bir komut bulamadım!*"
+            "COMMAND": "bot ILham",
+            "DESC": "saya asisten",
+            "EXAMPLE": "ilham",
+            "NOT_FOUND": "*ILham Mansiezz!*"
         },
         "_plugin": {
-            "INSTALL_DESC": "Plugin yükler.",
-            "NEED_URL": "Lütfen bir URL giriniz! Örnek:",
-            "INVALID_URL": "```Lütfen bir geçerli URL giriniz!```",
-            "INVALID_PLUGIN": "*❌ Plugininiz hatalı!*\n*Hata:*",
-            "INSTALLED": "*✅ Plugin başarılı bir şekilde yüklendi!*",
-            "PLUGIN_DESC": "Yüklediğiniz pluginleri gösterir.",
-            "INSTALLED_FROM_REMOTE": "*Dışarıdan yüklediğiniz pluginler:*\n",
-            "NO_PLUGIN": "*Dışarıdan hiç plugin yüklememişsiniz!*",
-            "REMOVE_DESC": "Plugin kaldırır.",
-            "NEED_PLUGIN": "```Lütfen bir Plugin giriniz! Örnek: .plugin __test```",
-            "NOT_FOUND_PLUGIN": "```Böyle bir plugin belki yüklediniz, belki de yüklemediniz. Ama şu an olmadığı kesin.```",
-            "DELETED": "*✅ Modül başarıyla silindi! Değişikliklerin uygulanması için yeniden başlatmanız gerekmektedir.*"
+            "INSTALL_DESC": "Yükler plugin.",
+            "NEED_URL": "Lütfen beer URL giriniz! Örnek:",
+            "INVALID_URL": "` `Lütfen bir geçerli URL giriniz!` `` `,
+            "INsilindi! Değişikliklerin uygulanması için yeniden başlatmanız gerekmektedir.*"
         },
         "admin": {
             "BAN_DESC": "Gruptan kişi banlar. Yanıt verin ya da komutun yanına kişiyi etiketleyin.",
@@ -52,7 +44,7 @@
             "LAST_SEEN": "Son Görülme",
             "IM_NOT_AFK": "```Artık AFK değilim!```",
             "AFK_TEXT": "```Bip bop! Bu bir bot. Sahibim şu an burada değil.```",
-            "AFK_TEXT_NOMD": "Bip bop! Bu bir bot. Sahibim şu an burada değil.",
+            "AFK_TEXT_NOMD": "Saya asisten bot. Assalamualaikum.",
             "HOUR": "saat",
             "MINUTE": "dakika",
             "SECOND": "saniye"
