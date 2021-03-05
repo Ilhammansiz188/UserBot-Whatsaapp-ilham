@@ -36,7 +36,7 @@
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://www.google.com/search?q=termux&safe=strict&client=ms-android-transsion-infinix-rev1&hl=id&prmd=inv&sxsrf=ALeKk01ovIJTCweua16NNf9Iy0XTKBC5ng:1614944752074&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjilZ2CipnvAhUBbisKHcSrB00Q_AUoAXoECAwQAQ&biw=360&bih=656#imgrc=h-RinYYn6MKKnM)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
+[![Run on Repl.it](STRING SEASON DISINI)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
 
 [![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
 
