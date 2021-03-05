@@ -38,7 +38,7 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
 
-[![Deploy](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)
+[![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
 
 
 ## F.A.Q
