@@ -3,9 +3,9 @@
     "description": "ILham UserBot wa project - Makes it easy and fun to use Whatsapp.",
     "logo": "https://telegra.ph/file/213efb74da866d568cd98.jpg",
     "keywords": ["whatsapp", "userbot", "ILham UserBot wa"],
-    "repository": "https://github.com/Quiec/WhatsAsena",
+    "repository": "https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham",
     "website":   "https://quiec.tech",
-    "success_url": "https://t.me/AsenaSupport",
+    "success_url": "https://t.me/gabutttttttttttttttttttttttttt",
     "stack": "container",
     "env": {
         "Userbotilham_SESSION": {
@@ -19,7 +19,7 @@
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => IN, Español => ES",
             "required": true,
-            "value": "TR"
+            "value": "IN"
         },
         "HANDLERS": {
             "description": "Komutlar için.",
