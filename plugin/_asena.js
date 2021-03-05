@@ -43,7 +43,7 @@ Asena.addCommand({pattern: 'ilham ?(.*)', fromMe: true, dontAddCommandList: true
         );    
     } else {
         var CMD_HELP = '';
-        Asena.commands.map(
+        ILham UserBot wa.commands.map(
             async (command) =>  {
                 if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
