@@ -38,12 +38,12 @@
 ### Simple Method
 [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
 
 ### The Hard Method
 ```js
-git clone https://github.com/Quiec/WhatsAsena.git
-cd WhatsAsena
+git clone https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham
+cd ILham UserBot wa
 npm i
 # Config.env oluşturun ve düzenleyin. #
 # Config.env create and edit. #
