@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Yusuf Usta.
+/* Copyright (C) 2020 ILham Mansiezz.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -11,12 +11,12 @@ const Config = require('../config');
 const {MessageType} = require('@adiwajshing/baileys');
 
 const Language = require('../language');
-const Lang = Language.getString('_asena');
+const Lang = Language.getString('_ilham');
 
-Asena.addCommand({pattern: 'asena ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
+Asena.addCommand({pattern: 'ilham ?(.*)', fromMe: true, dontAddCommandList: true}, (async (message, match) => {
     var CMD_HELP = '';
     if (match[1] === '') {
-        Asena.commands.map(
+        Ilham.commands.map(
             async (command) =>  {
                 if (command.dontAddCommandList || command.pattern === undefined) return;
                 try {
