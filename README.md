@@ -36,7 +36,7 @@
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
+[![Run on Repl.it](https://www.google.com/search?q=termux&safe=strict&client=ms-android-transsion-infinix-rev1&hl=id&prmd=inv&sxsrf=ALeKk01ovIJTCweua16NNf9Iy0XTKBC5ng:1614944752074&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjilZ2CipnvAhUBbisKHcSrB00Q_AUoAXoECAwQAQ&biw=360&bih=656#imgrc=h-RinYYn6MKKnM)](https://repl.it/@Ilhammansiz188/whatsasena-2#index.js)
 
 [![Deploy](https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=flat&logo=heroku)](https://heroku.com/deploy?template=https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham)
 
@@ -45,7 +45,7 @@
 Answer a few frequently asked questions;
 ### Can you read my messages?
 This project is open source so all the codes are clear. Neither less nor more; you can look what you want. **We absolutely do not have access to your accounts.**
-
+Ilhammansiz188
 ### What about our security?
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Whatsapp Web> Logout** from all sessions button.
 
