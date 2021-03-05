@@ -43,7 +43,7 @@
 ### The Hard Method
 ```js
 git clone https://github.com/Ilhammansiz188/UserBot-Whatsaapp-ilham
-cd ILham UserBot wa
+cd ILhambot
 npm i
 # Config.env oluşturun ve düzenleyin. #
 # Config.env create and edit. #
